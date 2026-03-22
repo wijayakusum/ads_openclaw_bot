@@ -1,0 +1,115 @@
+Campaign,Ad Group,Keyword,Match Type,Max CPC (USD),Status
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book bali tour,Phrase,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,bali tour booking,Phrase,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,bali tour packages book,Phrase,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book mount batur sunrise,Phrase,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,bali tour deals book,Phrase,2.00,Enabled
+CONV_SEARCH_AU_BRAND_20260322,SEARCH_BRAND_EXACT,balitatittour,Exact,0.75,Enabled
+CONV_SEARCH_AU_BRAND_20260322,SEARCH_BRAND_EXACT,balitatit tour,Exact,0.75,Enabled
+CONV_SEARCH_AU_BRAND_20260322,SEARCH_BRAND_EXACT,balitatittour booking,Phrase,0.75,Enabled
+CONV_SEARCH_AU_BRAND_20260322,SEARCH_BRAND_EXACT,bali tatit tour,Phrase,0.75,Enabled
+CONV_SEARCH_AU_BRAND_20260322,SEARCH_BRAND_EXACT,balitatit travel planner,Phrase,0.75,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book bali waterfall tour now,Phrase,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,reserve mount batur sunrise tour,Phrase,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book private east bali itinerary,Phrase,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,secure bali tour dates online,Phrase,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book bali private tour,Exact,2.20,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book bali day trip,Exact,2.05,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,reserve bali tour,Exact,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book east bali tour,Exact,2.10,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book sunrise trek bali,Exact,2.15,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book waterfall tour bali,Exact,2.10,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,bali tour availability,Exact,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,bali tour quote request,Exact,2.05,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,book bali itinerary,Exact,2.00,Enabled
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,secure bali tour booking,Exact,2.20,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry tickets,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,buy ferry tickets,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry online,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry ticket booking,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,reserve ferry tickets,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry crossing,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry ticket near me,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry tickets online indonesia,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,buy ferry ticket now,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book fast ferry ticket,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book cheap ferry tickets,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry and vehicle,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry for car,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry tickets today,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry ticket schedule,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry tickets bali,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book interisland ferry,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book passenger ferry ticket,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry booking online,Exact,0.90,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry crossing tickets,Exact,0.90,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry tickets australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,buy ferry tickets australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry online australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,australia ferry ticket booking,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,reserve ferry tickets australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry crossing australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry ticket near me australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,buy ferry ticket now australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book fast ferry ticket australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book cheap ferry tickets australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry and vehicle australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry for car australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry tickets today australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry ticket schedule australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book passenger ferry ticket australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry booking online australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry crossing tickets australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,buy ferry boarding pass australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,secure ferry seat booking australia,Exact,1.10,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,last minute ferry booking australia,Exact,1.10,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry tickets same day booking,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry ticket promo bali,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,online ferry payment indonesia,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,bali fast boat online booking,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry seat this weekend,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry schedule and ticket booking,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,cheap ferry booking bali route,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry ticket booking with pickup,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,bali ferry booking for families,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,return ferry ticket booking bali,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,instant ferry e ticket booking,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book harbor transfer and ferry,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,bali to island ferry booking,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry for group travelers,Phrase,0.95,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,bali ferry ticket with insurance,Phrase,0.95,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,australia to island ferry booking,Phrase,1.15,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry booking with instant confirmation,Phrase,1.15,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book ferry seats for holiday,Phrase,1.15,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,best ferry booking deals australia,Phrase,1.15,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,fast ferry booking for tourists,Phrase,1.15,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry ticket comparison australia,Phrase,1.15,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,book premium ferry seats australia,Phrase,1.15,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry booking with flexible dates,Phrase,1.15,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,secure ferry checkout australia,Phrase,1.15,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,ferry trip ticket booking online,Phrase,1.15,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+book +ferry +tickets +bali,Broad Modified,0.80,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+ferry +booking +online +indonesia,Broad Modified,0.80,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+buy +ferry +ticket +now,Broad Modified,0.80,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+fast +boat +booking +bali,Broad Modified,0.80,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+ferry +ticket +schedule +booking,Broad Modified,0.80,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+ferry +seat +reservation +bali,Broad Modified,0.80,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+book +ferry +for +car,Broad Modified,0.80,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+interisland +ferry +ticket +booking,Broad Modified,0.80,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+same +day +ferry +booking,Broad Modified,0.80,Enabled
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,+secure +ferry +checkout +bali,Broad Modified,0.80,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+book +ferry +tickets +australia,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+ferry +booking +online +australia,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+buy +ferry +ticket +australia,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+ferry +crossing +booking +australia,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+ferry +ticket +deals +australia,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+ferry +reservation +for +car,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+holiday +ferry +seat +booking,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+instant +ferry +confirmation +online,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+ferry +trip +booking +today,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+premium +ferry +booking +australia,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+family +ferry +ticket +booking,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+tourist +ferry +booking +online,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+best +ferry +price +booking,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+ferry +operator +booking +australia,Broad Modified,1.00,Enabled
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,+last +minute +ferry +booking,Broad Modified,1.00,Enabled

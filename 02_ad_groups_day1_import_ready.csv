@@ -1,0 +1,5 @@
+Campaign,Ad Group,Ad Group Status,Default Max CPC (USD),Final URL
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,Enabled,2.00,https://balitatittour.com/book
+CONV_SEARCH_AU_BRAND_20260322,SEARCH_BRAND_EXACT,Enabled,0.75,https://balitatittour.com
+FERRY_ID_BOOKING_Day1,Booking Intent - Ferry Tickets,Enabled,0.90,https://balitatittour.com/book
+FERRY_AU_BOOKING_Day1,Booking Intent - Ferry Tickets,Enabled,1.10,https://balitatittour.com/book
