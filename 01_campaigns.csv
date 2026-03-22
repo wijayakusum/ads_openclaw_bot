@@ -1,0 +1,12 @@
+Campaign,Campaign Status,Campaign Type,Bid Strategy Type,Campaign Daily Budget (USD),Network (Google Search),Network (Search Partners),Network (Google Display),Languages,Locations
+CONV_SEARCH_AU_EASTBALI_20260322,Enabled,Search,Maximize Clicks,7.00,Include,Include,Exclude,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+CONV_SEARCH_AU_WATERFALL_20260322,Enabled,Search,Maximize Clicks,7.00,Include,Include,Exclude,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+CONV_SEARCH_AU_SUNRISE_20260322,Enabled,Search,Maximize Clicks,7.00,Include,Include,Exclude,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+CONV_SEARCH_AU_PRIVATE_20260322,Enabled,Search,Maximize Clicks,7.00,Include,Include,Exclude,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+CONV_SEARCH_AU_CUSTOM_20260322,Enabled,Search,Maximize Clicks,7.00,Include,Include,Exclude,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+CONV_SEARCH_AU_FAMILY_20260322,Enabled,Search,Maximize Clicks,7.00,Include,Include,Exclude,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+CONV_SEARCH_AU_BOOKING_20260322,Enabled,Search,Maximize Clicks,7.00,Include,Include,Exclude,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+CONV_SEARCH_AU_BRAND_20260322,Enabled,Search,Maximize Clicks,10.00,Include,Exclude,Exclude,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+CONV_PMAX_GLOBAL_ALLPACKAGES_20260322,Enabled,Performance Max,Maximize Conversions,36.00,Include,Include,Include,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+REMARKET_DISPLAY_GLOBAL_SITEVIS_20260322,Enabled,Display,Maximize Clicks,14.00,Exclude,Exclude,Include,English,"Australia, Singapore, Malaysia, United Kingdom, United States"
+VIDEO_YT_PROSPECT_AU_15S_20260322,Enabled,Video,Maximize Clicks,18.00,Exclude,Exclude,Include,English,"Australia, Singapore, Malaysia, United Kingdom, United States"

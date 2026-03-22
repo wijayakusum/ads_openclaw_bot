@@ -1,0 +1,33 @@
+Extension Type,Assign To (Campaign — blank = account-level),Text,Description Line 1,Description Line 2,Final URL,Status,Notes
+Sitelink,,East Bali Tours,4D3N East Bali & hidden waterfalls,,https://balitatittour.com/east-bali-4d3n,Enabled,Assign to all Search campaigns
+Sitelink,,Waterfall Treks,Sekumpul Tibumana & secret cascades,,https://balitatittour.com/waterfall-tours,Enabled,Assign to all Search campaigns
+Sitelink,,Sunrise Treks,Mount Batur & Agung sunrise hikes,,https://balitatittour.com/sunrise-treks,Enabled,Assign to all Search campaigns
+Sitelink,,Custom Itineraries,Build your private Bali trip,,https://balitatittour.com/custom-itinerary,Enabled,Assign to all Search campaigns
+Sitelink,,Private Tours,Guides driver & transfers included,,https://balitatittour.com/private-tours,Enabled,Assign to all Search campaigns
+Sitelink,,Book Now,Check availability & secure your dates,,https://balitatittour.com/book,Enabled,Assign to all Search campaigns + PMax
+Callout,,Local English Guides,,,,Enabled,Assign to all Search campaigns
+Callout,,Private Transfers Included,,,,Enabled,Assign to all Search campaigns
+Callout,,Small Group Options,,,,Enabled,Assign to all Search campaigns
+Callout,,Flexible Cancellations,,,,Enabled,Assign to all Search campaigns
+Callout,,24/7 Local Support,,,,Enabled,Assign to all Search campaigns
+Structured Snippet,,Service types: Waterfalls; Sunrise Treks; Snorkeling; Cultural Tours; Rice Terraces,,,,Enabled,Header = Types
+Structured Snippet,,Destinations: Amed; Candidasa; Tirta Gangga; Sekumpul; Mount Batur,,,,Enabled,Header = Destinations
+Call Extension,,+62 [YOUR PHONE NUMBER],,,, Enabled,"Schedule: 07:00-22:00 WITA (UTC+8). Map to your WhatsApp/booking line."
+Image Extension,,Sunrise summit shot,,,,Enabled,Landscape 1.91:1 and Square 1:1 required — see image concepts in 30-day plan
+Image Extension,,Hidden waterfall plunge pool,,,,Enabled,Landscape 1.91:1 and Square 1:1 required
+Image Extension,,Private guide & van,,,,Enabled,Landscape 1.91:1 and Square 1:1 required
+Image Extension,,Family snorkeling Amed,,,,Enabled,Landscape 1.91:1 and Square 1:1 required
+Sitelink,,East Bali 4D3N,Explore Amed Tirta Gangga and waterfalls,Private tours and small groups,https://balitatittour.com/east-bali-4d3n,Enabled,Variant B
+Sitelink,,Waterfall Treks,Guided hikes to Sekumpul and Tibumana,Swim at hidden cascade spots,https://balitatittour.com/waterfall-tours,Enabled,Variant B
+Sitelink,,Sunrise Treks,Mount Batur and Agung sunrise hikes,Pre dawn pickup and summit breakfast,https://balitatittour.com/sunrise-treks,Enabled,Variant B
+Sitelink,,Custom Itinerary,Build a private tailored Bali trip,Free sample itinerary on request,https://balitatittour.com/custom-itinerary,Enabled,Variant B
+Callout,,Handpicked Family Routes,,,,https://balitatittour.com,Enabled,Variant B
+Callout,,Fast Quote Response,,,,https://balitatittour.com,Enabled,Variant B
+Callout,,Flexible Start Times,,,,https://balitatittour.com,Enabled,Variant B
+Callout,,Trusted Local Operators,,,,https://balitatittour.com,Enabled,Variant B
+Callout,,Private Concierge Support,,,,https://balitatittour.com,Enabled,Variant C premium
+Callout,,Luxury Comfort Transfers,,,,https://balitatittour.com,Enabled,Variant C premium
+Callout,,Premium Custom Itineraries,,,,https://balitatittour.com,Enabled,Variant C premium
+Callout,,Priority Booking Assistance,,,,https://balitatittour.com,Enabled,Variant C premium
+Callout,,Handpicked Premium Routes,,,,https://balitatittour.com,Enabled,Variant C premium
+Callout,,Verified Local Specialists,,,,https://balitatittour.com,Enabled,Variant C premium

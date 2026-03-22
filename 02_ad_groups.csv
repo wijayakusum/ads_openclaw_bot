@@ -1,0 +1,9 @@
+Campaign,Ad Group,Ad Group Status,Default Max CPC (USD),Final URL
+CONV_SEARCH_AU_EASTBALI_20260322,SEARCH_EAST_PHRASE,Enabled,1.50,https://balitatittour.com/east-bali-4d3n
+CONV_SEARCH_AU_WATERFALL_20260322,SEARCH_WATERFALL_PHRASE,Enabled,1.50,https://balitatittour.com/waterfall-tours
+CONV_SEARCH_AU_SUNRISE_20260322,SEARCH_SUNRISE_PHRASE,Enabled,1.50,https://balitatittour.com/sunrise-treks
+CONV_SEARCH_AU_PRIVATE_20260322,SEARCH_PRIVATE_EXACT,Enabled,1.75,https://balitatittour.com/private-tours
+CONV_SEARCH_AU_CUSTOM_20260322,SEARCH_CUSTOM_PHRASE,Enabled,1.50,https://balitatittour.com/custom-itinerary
+CONV_SEARCH_AU_FAMILY_20260322,SEARCH_FAMILY_PHRASE,Enabled,1.50,https://balitatittour.com/family-tours
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,Enabled,2.00,https://balitatittour.com/book
+CONV_SEARCH_AU_BRAND_20260322,SEARCH_BRAND_EXACT,Enabled,0.75,https://balitatittour.com
