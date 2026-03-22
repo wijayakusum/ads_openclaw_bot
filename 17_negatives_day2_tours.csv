@@ -1,0 +1,11 @@
+Category,Shared Set,Negative Keyword,Match Type,Reason,Status
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,tour guide job bali,phrase,Employment intent not tour booking,Enabled
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,travel agency franchise,phrase,B2B intent outside traveler conversion,Enabled
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,free bali itinerary pdf,phrase,Free resource intent low booking likelihood,Enabled
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,bali history wikipedia,phrase,Research intent not purchase intent,Enabled
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,budget backpacking tips,phrase,Low-intent informational traffic,Enabled
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,volunteer bali program,phrase,Non-tour program intent,Enabled
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,immigration office bali,phrase,Administrative intent not experience booking,Enabled
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,weather bali today,phrase,Weather lookup not transactional,Enabled
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,bali map offline,phrase,Navigation-only intent,Enabled
+Tour and Experience,BALITATI_NEG_TOURS_DAY2,travel blogger salary,phrase,Career/content intent not customer intent,Enabled

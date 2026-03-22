@@ -1,0 +1,11 @@
+Category,Shared Set,Negative Keyword,Match Type,Reason,Status
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,hotel receptionist job,phrase,Employment intent not room booking,Enabled
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,hotel management course,phrase,Education intent not guest intent,Enabled
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,hostel monthly rent,phrase,Long-stay rental intent outside package,Enabled
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,free hotel voucher,phrase,Low-quality promo-only intent,Enabled
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,hotel floor plan,phrase,Architecture intent unrelated to stay,Enabled
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,hotel owner forum,phrase,B2B discussion intent not booking,Enabled
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,internship hotel bali,phrase,Recruitment intent not consumer booking,Enabled
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,wedding venue only,phrase,Event venue-only intent outside package stay,Enabled
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,apartment lease bali,phrase,Rental intent not hotel package intent,Enabled
+Hotel Package Stay,BALITATI_NEG_HOTEL_DAY2,free breakfast recipe,phrase,Informational cooking intent,Enabled

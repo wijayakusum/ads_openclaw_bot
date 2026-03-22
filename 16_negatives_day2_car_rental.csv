@@ -1,0 +1,11 @@
+Category,Shared Set,Negative Keyword,Match Type,Reason,Status
+Car Rental,BALITATI_NEG_CARRENT_DAY2,used car for sale bali,phrase,Purchase intent not rental intent,Enabled
+Car Rental,BALITATI_NEG_CARRENT_DAY2,car dealer promo,phrase,Dealer shopping intent outside service,Enabled
+Car Rental,BALITATI_NEG_CARRENT_DAY2,car mechanic near me,phrase,Repair intent not traveler rental,Enabled
+Car Rental,BALITATI_NEG_CARRENT_DAY2,car insurance claim,phrase,Insurance support intent not booking,Enabled
+Car Rental,BALITATI_NEG_CARRENT_DAY2,driving school bali,phrase,Education intent outside car hire,Enabled
+Car Rental,BALITATI_NEG_CARRENT_DAY2,chauffeur job bali,phrase,Employment intent not customer booking,Enabled
+Car Rental,BALITATI_NEG_CARRENT_DAY2,car rental script,phrase,Software intent not transportation need,Enabled
+Car Rental,BALITATI_NEG_CARRENT_DAY2,free car wallpaper,phrase,Content browsing not transactional intent,Enabled
+Car Rental,BALITATI_NEG_CARRENT_DAY2,car parts wholesale,phrase,Parts procurement intent outside offer,Enabled
+Car Rental,BALITATI_NEG_CARRENT_DAY2,rent to own car,phrase,Finance product intent not short-term rental,Enabled

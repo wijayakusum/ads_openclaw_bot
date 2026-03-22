@@ -22,6 +22,11 @@ This repository contains launch-ready Google Ads artifacts and AdSense planning 
 - `10_day2_optimization_pack.md`
 - `11_negatives_day2_candidates.csv`
 - `12_bid_adjustments_day2.csv`
+- `13_negatives_day2_ferry.csv`
+- `14_negatives_day2_hotel.csv`
+- `15_negatives_day2_transfer.csv`
+- `16_negatives_day2_car_rental.csv`
+- `17_negatives_day2_tours.csv`
 
 ## Import Order (Google Ads Editor)
 
@@ -38,9 +43,10 @@ Use the matching `*_day1_import_ready.csv` files in this sequence.
 
 1. Pull search terms from the first 24 hours.
 2. Add irrelevant terms into `11_negatives_day2_candidates.csv` and upload as negatives.
-3. Review campaign and ad-group performance.
-4. Apply controlled bid changes from `12_bid_adjustments_day2.csv`.
-5. Track what was changed and why in `10_day2_optimization_pack.md`.
+3. Apply category-level negatives from files `13` to `17` to the matching campaign groups.
+4. Review campaign and ad-group performance.
+5. Apply controlled bid changes from `12_bid_adjustments_day2.csv`.
+6. Track what was changed and why in `10_day2_optimization_pack.md`.
 
 ## Quick Commands
 

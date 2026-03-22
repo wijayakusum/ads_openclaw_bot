@@ -1,0 +1,11 @@
+Category,Shared Set,Negative Keyword,Match Type,Reason,Status
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,bus driver vacancy,phrase,Employment intent not transfer booking,Enabled
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,vehicle mechanic,phrase,Service intent not passenger transfer,Enabled
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,truck rental cargo,phrase,Freight intent outside transfer offer,Enabled
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,public bus schedule,phrase,Low-intent public transport lookup,Enabled
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,airport map terminal,phrase,Navigation intent not booking transfer,Enabled
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,free shuttle coupon,phrase,Promo-only low-value intent,Enabled
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,motorbike taxi app,phrase,Alternative mobility intent outside offer,Enabled
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,ride share driver sign up,phrase,Recruitment intent not rider booking,Enabled
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,van conversion diy,phrase,DIY vehicle intent unrelated to trips,Enabled
+Transfer Service,BALITATI_NEG_TRANSFER_DAY2,used minibus sale,phrase,Vehicle purchase intent not service booking,Enabled

@@ -1,0 +1,11 @@
+Category,Shared Set,Negative Keyword,Match Type,Reason,Status
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,cruise ship jobs,phrase,Employment intent not booking ferry seats,Enabled
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,ferry accident news,phrase,News intent not transactional,Enabled
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,ferry timetable free,phrase,Information-only low booking intent,Enabled
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,boat repair,phrase,Marine service intent not passenger booking,Enabled
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,cargo ferry rates,phrase,Freight intent outside target offer,Enabled
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,ferry history,phrase,Research intent not conversion intent,Enabled
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,ferry wiki,phrase,Research intent not conversion intent,Enabled
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,free ferry voucher,phrase,Discount hunting low-quality traffic,Enabled
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,driver vacancy port,phrase,Recruitment intent not traveler intent,Enabled
+Ferry Ticket Booking,BALITATI_NEG_FERRY_DAY2,ferry blueprint,phrase,Technical intent unrelated to booking,Enabled
