@@ -1,0 +1,11 @@
+Shared Set,Negative Keyword,Match Type,Reason,Status
+BALITATI_SHARED_NEGATIVES_DAY2,free,phrase,Low purchase intent,Enabled
+BALITATI_SHARED_NEGATIVES_DAY2,job,phrase,Employment intent not booking,Enabled
+BALITATI_SHARED_NEGATIVES_DAY2,career,phrase,Employment intent not booking,Enabled
+BALITATI_SHARED_NEGATIVES_DAY2,wiki,phrase,Research-only intent,Enabled
+BALITATI_SHARED_NEGATIVES_DAY2,definition,phrase,Dictionary intent,Enabled
+BALITATI_SHARED_NEGATIVES_DAY2,map,phrase,Navigation-only intent,Enabled
+BALITATI_SHARED_NEGATIVES_DAY2,cheap hostels,phrase,Irrelevant lodging segment,Enabled
+BALITATI_SHARED_NEGATIVES_DAY2,second hand car,phrase,Irrelevant vehicle intent,Enabled
+BALITATI_SHARED_NEGATIVES_DAY2,ferry accident,phrase,News intent not booking,Enabled
+BALITATI_SHARED_NEGATIVES_DAY2,volunteer bali,phrase,Non-commercial travel intent,Enabled

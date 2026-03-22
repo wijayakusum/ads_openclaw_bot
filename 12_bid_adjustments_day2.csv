@@ -1,0 +1,6 @@
+Campaign,Ad Group,Current Bid,Adjustment %,New Bid,Reason,Status
+CONV_SEARCH_AU_BRAND_20260322,SEARCH_BRAND_EXACT,1.20,+10%,1.32,Strong conversion rate and efficient CPA,Planned
+CONV_SEARCH_AU_BOOKING_20260322,SEARCH_BOOKING_PHRASE,1.00,+5%,1.05,Good intent with stable CTR,Planned
+FERRY_ID_BOOKING_Day1,SEARCH_FERRY_BOOKING_EXACT,0.80,+10%,0.88,High intent booking terms performing,Planned
+FERRY_AU_BOOKING_Day1,SEARCH_FERRY_BOOKING_PHRASE_AU,0.90,-10%,0.81,Spend high conversion lagging,Planned
+CONV_PMAX_GLOBAL_ALLPACKAGES_20260322,PMAX_ALL_ASSETS,1.10,-5%,1.05,Rebalance budget toward stronger search,Planned
